@@ -1,0 +1,43 @@
+/*Just a warning, there r going to be many funny id names in here. U might have to search html to know what it connects to. Sowwy*/
+body{
+    /*I thought about putting text alight to center, but it comes wierdly if u do that. If u don't believe me, try it yourself!*/
+    text-align: left;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 50px;
+    /*I know u said to use png pics, but i tried jfif and it works no problem*/
+    background-image: url('./background-image.jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*Enjoy this #Years id name, becoz it is the only id name apart from #link that isn't ridiculous*/
+#Years{
+    width: 117px;
+}
+/*Told u there were gonna be ridiculous id names!*/
+#bo{
+    width: 400px;
+}
+#ko{
+    width: 140px;
+}
+/*The last non-ridiculous id name*/
+#link{
+    color: blue;
+}
+.qp{
+    font-weight: bold;
+    font-size: 50px;
+}
+#bh{
+    width: 600px;
+}
+div{
+    background-color: rgb(207, 190, 190);
+    /*The opacity, margin and padding took some time to get the right numbers. Appreciate it*/
+    opacity: 0.83;
+    margin: 1% 5%;
+    padding: 34px;
+    border-radius: 20px;
+}
+/*I would like it if u would reply to all these comments, both html and css. I spent quarter hour typing them. Also i wanna know how u feel about my comments*/
